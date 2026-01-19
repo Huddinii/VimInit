@@ -10,3 +10,7 @@ vim.opt.expandtab = true
 
 vim.opt.termguicolors = true
 
+vim.opt.encoding = "utf-8"
+vim.opt.fileencoding = "utf-8"
+vim.opt.fileencodings = { "utf-8" }
+
